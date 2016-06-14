@@ -1,5 +1,7 @@
 EDSunriseSet
 ---------------
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 Objective-C class to calculate Sunrise, Sunset, and Twilight times based on the user's current location and time zone.
 
 `EDSunriseSet` is an Objective-C wrapper for the C languages routines created by [Paul Schlyter].
