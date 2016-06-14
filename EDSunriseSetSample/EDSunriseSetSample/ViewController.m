@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "EDSunriseSet.h"
+@import EDSunriseSet;
 
 static NSString * const kCityName  = @"name";
 static NSString * const kCityLongitude  = @"longitude";

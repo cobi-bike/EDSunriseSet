@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C3E9C5A61D0F5865003B5C5E"
-               BuildableName = "EDSunriseSet.framework"
-               BlueprintName = "EDSunriseSet"
+               BlueprintIdentifier = "C3A4EDCB1D10685600A3CCBE"
+               BuildableName = "EDSunriseSet iOS.framework"
+               BlueprintName = "EDSunriseSet iOS"
                ReferencedContainer = "container:EDSunriseSet.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3E9C5A61D0F5865003B5C5E"
-            BuildableName = "EDSunriseSet.framework"
-            BlueprintName = "EDSunriseSet"
+            BlueprintIdentifier = "C3A4EDCB1D10685600A3CCBE"
+            BuildableName = "EDSunriseSet iOS.framework"
+            BlueprintName = "EDSunriseSet iOS"
             ReferencedContainer = "container:EDSunriseSet.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3E9C5A61D0F5865003B5C5E"
-            BuildableName = "EDSunriseSet.framework"
-            BlueprintName = "EDSunriseSet"
+            BlueprintIdentifier = "C3A4EDCB1D10685600A3CCBE"
+            BuildableName = "EDSunriseSet iOS.framework"
+            BlueprintName = "EDSunriseSet iOS"
             ReferencedContainer = "container:EDSunriseSet.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
